@@ -1,4 +1,4 @@
-# Letters Bot
+# TimeSealed Bot
 
 A private Telegram bot, hosted on your own phone via Termux, for writing dated
 letters to your future spouse — organized by topic, backed up automatically
